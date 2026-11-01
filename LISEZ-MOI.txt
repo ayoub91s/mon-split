@@ -1,0 +1,9 @@
+MON SPLIT - PACK GITHUB PAGES
+
+Décompresser et mettre index.html et le dossier mobility-images à la racine du dépôt GitHub Pages.
+Le fichier correspondances.csv donne la provenance des 88 photos.
+Les images ont été associées par inspection visuelle, car le ZIP ne conservait pas l’ordre chronologique des exercices : les noms horodatés sont classés puis les 10 fichiers image.png/image(2).png ... image(10).png.
+La fente basse avec rotation (n°62 de la liste) correspond à m48, associée à la photo 25 du ZIP, réutilisée sans duplication.
+Certains exercices supplémentaires sont ajoutés avec les identifiants extra1 à extra12 pour préserver les photos sélectionnées.
+Pour les exercices sans photo sélectionnée, la fiche garde le bloc Photo à ajouter.
+Les photos personnalisées déjà enregistrées dans le navigateur gardent la priorité.
